@@ -17,6 +17,7 @@ public class Getfile {
 		else {
 			a=1;
 			System.out.println(a+"Has it\n");}
+		System.out.println("Test the git function");
 	}
 
 }
